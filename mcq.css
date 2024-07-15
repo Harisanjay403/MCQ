@@ -50,3 +50,20 @@ button:hover{
     font-size:18px;
     color:#555;
 }
+
+.timer span{
+    color:red;
+    font-weight: bold;
+}
+
+.score-section{
+    text-align:center;
+}
+
+.score-section h2{
+    margin-bottom:15px;
+}
+
+.score-section button{
+    background-color:tomato;
+}

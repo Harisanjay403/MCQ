@@ -6,7 +6,7 @@ export default function App() {
     const [showScore,  setShowScore]=useState(false)
      const [currentQuestion,setCurrentQuestion]=useState(0)   
     const [timer,setTimer]=useState(10)
-    const [score,setScore]=useState(0)
+    const [score,setScore]=useState(0);
 
     useEffect(()=>{
         let interval;
